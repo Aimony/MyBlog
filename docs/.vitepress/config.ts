@@ -1,5 +1,5 @@
 export default {
-    base:'MyBlog',
+    base:'/MyBlog/',
     themeConfig: {
       sidebar: [
         {
