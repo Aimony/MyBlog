@@ -3,9 +3,10 @@ export default {
     themeConfig: {
       sidebar: [
         {
-          text: '小测试',
+          text: '测试',
           items: [
             { text: 'Item A', link: '/guide/' },
+            { text: '建站技巧', link: '/web/' },
           ]
         },
       ]
